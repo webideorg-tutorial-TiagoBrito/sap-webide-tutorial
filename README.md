@@ -1,3 +1,3 @@
 # sap-webide-tutorial
 
-Tutorial for SAP WEB IDE - Test
+Tutorial for SAP WEB IDE
